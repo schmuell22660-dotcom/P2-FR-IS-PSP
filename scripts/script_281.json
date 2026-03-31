@@ -6,8 +6,10 @@
     "data_size": 276,
     "nom_orig": "Eikichi",
     "texte_orig": "It's[SP]just[SP]like[SP]Ken[SP]and[SP]the[SP]others.[SP]He's[SP]turned\nblack[SP]as[SP]a[SP]shadow...[1205][001E][SP]That[SP]Joker...[SP]I'm[SP]gonna\ncatch[SP]him,[SP]you[SP]just[SP]watch[SP]me...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est comme Ken et les autres. Il est devenu
+    noir comme une ombre...[1205][001E] Ce Joker... Je vais
+    le choper, regardez-moi faire."
   },
   {
     "id": 1,
@@ -16,8 +18,10 @@
     "data_size": 292,
     "nom_orig": "Eikichi",
     "texte_orig": "Stupid[SP]Ginko,[SP]going[SP]on[SP]and[SP]on[SP]about[SP]undies...[1205][U+000F]\nAlright,[SP]bring[SP]it[SP]on![1205][U+000A][SP]I'll[SP]spend[SP]a[SP]whole[SP]day\nhere[SP]with[SP]you[SP]if[SP]that's[SP]what[SP]it[SP]takes!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Abrutie de Ginko, toujours à parler de culottes...[1205][U+000F]
+    Très bien, vas-y![1205][U+000A] Je passerai même toute la journée
+    ici avec toi si c'est le prix à payer!"
   },
   {
     "id": 2,
@@ -26,8 +30,10 @@
     "data_size": 294,
     "nom_orig": "Eikichi",
     "texte_orig": "Whoa,[SP]whoa...[SP]Don't[SP]tell[SP]me[SP]this[SP]is[SP]because\nof[SP]a[SP]rumor[SP]too![1205][U+000F][SP]When[SP]the[SP]rumor[SP]spread[SP]at[SP]Sevens\nthat[SP]the[SP]principal[SP]died,[SP]he[SP]really[SP]did!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Attends, attends... Me dis pas que c'est à cause
+    d'une rumeur aussi![1205][U+000F] Donc quand la rumeur comme quoi
+    le proviseur était mort tournait à Seven, c'était vrai!?"
   },
   {
     "id": 3,
@@ -36,8 +42,10 @@
     "data_size": 246,
     "nom_orig": "Eikichi",
     "texte_orig": "This[SP]is[SP]a[SP]joke,[SP]right?[1205][U+000F][SP]Are[SP]rumors[SP]deciding\nwhether[SP]people[SP]live[SP]or[SP]die!?[SP]That's[SP]just\ncompletely[SP]ridiculous...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est une blague, hein?[1205][U+000F] Donc ce sont des rumeurs
+    qui décident du sort des gens!? C'est 
+    n'importe quoi..."
   },
   {
     "id": 4,
@@ -46,8 +54,10 @@
     "data_size": 278,
     "nom_orig": "Eikichi",
     "texte_orig": "Nah...[SP]There's[SP]no[SP]way[SP]my[SP]guys[SP]would[SP]pull[SP]a\nlow-down[SP]trick[SP]like[SP]using[SP]rumors[SP]to[SP]make\npeople[SP]look[SP]bad![SP]Fatty[SP]must[SP]have[SP]bad[SP]info.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Nan... Jamais mes gars aurait fait un
+    coup aussi bas comme des rumeurs pour faire
+    passer les gens pour des ordures! Le gros a sûrement de mauvaises infos."
   },
   {
     "id": 5,
@@ -56,8 +66,10 @@
     "data_size": 222,
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,maybe[SP]Hanakouji-san[SP]went[SP]back[SP]to[SP]her[SP]\nunderclassman's[SP]place.[1205][U+000F]\nLet's[SP]try[SP]going[SP]to[SP]Peace[SP]Diner.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hé,ptet que Mme Hanakouji est retournée
+    avec les ptits nouveaux.[1205][U+000F]
+    Essayons d'aller à Peace Diner."
   },
   {
     "id": 6,
@@ -66,8 +78,10 @@
     "data_size": 260,
     "nom_orig": "Eikichi",
     "texte_orig": "This[SP]is[SP]Yasuo[SP]we're[SP]talking[SP]about[SP]here.[SP]I[SP]bet\nhe's[SP]still[SP]got[SP]something[SP]up[SP]his[SP]sleeve.[1205][U+000F][SP]Tch...\nThat[SP]guy[SP]never[SP]learns!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On parle de Yasuo là. Je suis sûr
+    qu'il a plus d'un tour dans son sac.[1205][U+000F] Pff...
+    Ce mec retiendra jamais la leçon."
   },
   {
     "id": 7,
@@ -76,8 +90,10 @@
     "data_size": 262,
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]bet[SP]this[SP]new[SP]idol[SP]is[SP]just[SP]some[SP]girl[SP]with\nhair[SP]like[SP]Ginko's.[1205][U+000F][SP]I'm[SP]not[SP]surprised[SP]they'd\njump[SP]to[SP]the[SP]wrong[SP]conclusion.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je suis sûr que son idole est une juste une fille avec
+    les mêmes cheveux que Ginko.[1205][U+000F] Je serai pas surpris qu'ils
+    fassent la mauvaise conclusion."
   },
   {
     "id": 8,
@@ -86,8 +102,9 @@
     "data_size": 192,
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP][U+1113].[SP]I'm[SP]bushed...[SP]Let's[SP]do[SP]like\nMaya-san[SP]says[SP]and[SP]head[SP]to[SP]the[SP]Detective[SP]Agency.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hé, [U+1113]. Jsuis claqué... Faisons comme
+    Maya dit et allons à l'agence des détectives."
   },
   {
     "id": 9,
@@ -96,8 +113,10 @@
     "data_size": 278,
     "nom_orig": "Eikichi",
     "texte_orig": "If[SP]the[SP]Masked[SP]Circle[SP]is[SP]behind[SP]this,[SP]they\ndon't[SP]have[SP]very[SP]good[SP]taste.[1205][U+000F][SP]It[SP]would[SP]have\nbeen[SP]so[SP]much[SP]easier[SP]to[SP]sponsor[SP]my[SP]debut!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Si le Cercle Masqué est derrière tout ça, ils
+    ont des goûts de chiottes.[1205][U+000F] Me sponsoriser
+    à mes débuts aurait été beaucoup plus simple!"
   },
   {
     "id": 10,
@@ -106,8 +125,10 @@
     "data_size": 284,
     "nom_orig": "Eikichi",
     "texte_orig": "Are[SP]you[SP]worried[SP]about[SP]Ginko?[SP]Relax,[SP]she'll[SP]be\nfine.[SP]I[SP]mean,[SP]she[SP]knows[SP]kung[SP]fu,[SP]she's[SP]a\nPersona-user,[SP]and[SP]she's[SP]got[SP]that[SP]temper...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Tu t'inquiètes pour Ginko? T'inquiètes, elle s'en sortira
+    bien. Fin, elle maîtrise le kung-fu, elle a un
+    Persona, et elle a un de ces tempéraments..."
   },
   {
     "id": 11,
@@ -116,8 +137,8 @@
     "data_size": 142,
     "nom_orig": "Eikichi",
     "texte_orig": "I'd[SP]be[SP]amazed[SP]if[SP]anyone[SP]so[SP]much[SP]as[SP]managed[SP]to\nscratch[SP]her.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je serai sur le cul si quelqu'un parvenait ne serait-ce qu'à l'éraffler."
   },
   {
     "id": 12,
@@ -126,8 +147,10 @@
     "data_size": 228,
     "nom_orig": "Eikichi",
     "texte_orig": "It's[SP]too[SP]bad[SP]the[SP]concert[SP]hall[SP]had[SP]to[SP]burn\ndown...[1205][U+000F][SP]I[SP]dreamed[SP]of[SP]having[SP]my[SP]own[SP]concert\nthere[SP]someday.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est dommage que le hall du concert ait prit
+    feu...[1205][U+000F] J'ai rêvé que je me produisais en concert
+    là-bas, un jour."
   },
   {
     "id": 13,
@@ -136,8 +159,10 @@
     "data_size": 312,
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]think[SP]the[SP]Sakanoue[SP]Building[SP]will[SP]be[SP]the[SP]next\ntarget.[1205][U+000A][SP]Why?[1205][U+000A][SP]My[SP]sixth[SP]sense[SP]says[SP]so![1205][U+000F][SP]You[SP]can\nalways[SP]trust[SP]the[SP]instinct[SP]of[SP]a[SP]beautiful[SP]man.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je pense que l'immeuble Sakaoune sera la prochaine
+    cible.[1205][U+000A] Pourquoi?[1205][U+000A] C'est mon sixième sens qui me l'a dit![1205][U+000F] Tu peux
+    toujours faire confiance aux intuitions d'un bel homme."
   },
   {
     "id": 14,
@@ -146,8 +171,10 @@
     "data_size": 288,
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]decide[SP]where[SP]we[SP]go[SP]next,[SP][U+1113]...[1205][U+000F][SP]I-I'm\nsure[SP]I've[SP]figured[SP]it[SP]out[SP]already,[SP]but[SP]I[SP]should\nlet[SP]you[SP]have[SP]some[SP]of[SP]the[SP]credit[SP]sometimes.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Tu décides où on va après, [U+1113]...[1205][U+000F] J-je suis
+    sûr d'avoir déjà deviné, mais je devrais
+    te laisser briller pour une fois."
   },
   {
     "id": 15,
@@ -156,8 +183,10 @@
     "data_size": 270,
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]Aerospace[SP]Museum,[SP]huh?[1205][U+000F][SP]That[SP]bastard[SP]is\nthere[SP]too!?[1205][U+000A][SP]I'll[SP]rip[SP]that[SP]mask[SP]off[SP]and[SP]beat\nhis[SP]face[SP]in[SP]this[SP]time[SP]for[SP]sure!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Le musée de l'Aérospatial, hein?[1205][U+000F] Ce bâtard y
+    est aussi!?[1205][U+000A] Je vais le démasquer et lui
+    casser la gueule bien comme il faut!"
   },
   {
     "id": 16,
@@ -166,8 +195,9 @@
     "data_size": 144,
     "nom_orig": "Eikichi",
     "texte_orig": "Tch...[1205][U+000A][SP]Even[SP]here,[SP]they're[SP]talking[SP]about[SP]the\nIn[SP]Lak'ech...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Tchiip...[1205][U+000A] Même là, ils parlent du
+    In Lak'ech..."
   },
   {
     "id": 17,
@@ -176,8 +206,9 @@
     "data_size": 184,
     "nom_orig": "Eikichi",
     "texte_orig": "But...[1205][U+000A][SP]if[SP]Jun[SP]ordered[SP]them[SP]to[SP]protect[SP]the\npeople[SP]of[SP]the[SP]city...[SP]He's[SP]still...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Mais...[1205][U+000A] si Jun leur a ordonné de protéger les
+    gens de la ville... Il est encore..."
   },
   {
     "id": 18,
@@ -186,8 +217,10 @@
     "data_size": 220,
     "nom_orig": "Lisa",
     "texte_orig": "Ack![SP]No,[SP]stay[SP]away![1205][001E][SP]Rumor[SP]is[SP]that[SP]couples[SP]who\ngo[SP]on[SP]dates[SP]in[SP]this[SP]park[SP]always[SP]have[SP]messy\nbreakups!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Haa! Non, t'approches pas![1205][001E] La rumeur dit que les couples qui
+    vont en date dans ce parc se séparent
+    à chaque fois!"
   },
   {
     "id": 19,
@@ -196,8 +229,10 @@
     "data_size": 222,
     "nom_orig": "Ginko",
     "texte_orig": "Ack![SP]No,[SP]stay[SP]away![1205][001E][SP]Rumor[SP]is[SP]that[SP]couples[SP]who\ngo[SP]on[SP]dates[SP]in[SP]this[SP]park[SP]always[SP]have[SP]messy\nbreakups!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Haa! Non, t'approches pas![1205][001E] La rumeur dit que les couples qui
+    vont en date dans ce parc se séparent
+    à chaque fois!"
   },
   {
     "id": 20,
@@ -206,8 +241,8 @@
     "data_size": 154,
     "nom_orig": "Ginko",
     "texte_orig": "Why[SP]would[SP]couples[SP]who[SP]go[SP]on[SP]a[SP]date[SP]in[SP]such[SP]a\npretty[SP]park[SP]break[SP]up?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Pourquoi est-ce que les couples qui vont dans un si joli parc se sépareraient?"
   },
   {
     "id": 21,
@@ -216,8 +251,10 @@
     "data_size": 234,
     "nom_orig": "Ginko",
     "texte_orig": "Well,[SP]if[SP]that's[SP]the[SP]rumor,[SP]then[SP]it's[SP]probably\ntrue[SP]now.[1205][U+000F][SP]Hey,[SP]I[SP]should[SP]go[SP]on[SP]a[SP]date[SP]with\nUndie[SP]Boss[SP]here!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Et bien, si c'est la rumeur, c'est probablement
+    vrai.[1205][U+000F] Hé, je devrai aller en date avec
+    le roi du string dans ce parc!"
   },
   {
     "id": 22,
