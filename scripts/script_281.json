@@ -569,8 +569,10 @@
     "data_size": 290,
     "nom_orig": "Maya",
     "texte_orig": "At[SP]least[SP]we[SP]know[SP]the[SP]general[SP]direction[SP]of[SP]our\nnext[SP]target,[SP]thanks[SP]to[SP]Elly-san...[1205][U+000F][SP]I[SP]guess\nwe'll[SP]have[SP]to[SP]rely[SP]on[SP]our[SP]hunches[SP]from[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Au moins on sait où se dirige notre 
+    prochaine cible, merci à Elly...[1205][U+000F] Je sens 
+    qu'on va devoir se reposer sur nos intuitions désormais."
   },
   {
     "id": 50,
@@ -737,8 +739,9 @@
     "data_size": 204,
     "nom_orig": "Yukino",
     "texte_orig": "Lisa...[SP]It's[SP]no[SP]use[SP]taking[SP]her[SP]anger[SP]out[SP]on\nthat[SP]guy.[SP]I[SP]guess[SP]she's[SP]just[SP]that[SP]desperate...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Lisa... Elle n'a pas besoin de relâcher sa rage sur 
+    ce type. Elle est sûrement déséspérée..."
   },
   {
     "id": 64,
@@ -747,8 +750,10 @@
     "data_size": 236,
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]feel[SP]sorry[SP]for[SP]Lisa,[SP]but[SP]we[SP]had[SP]no[SP]other\nleads[SP]on[SP]the[SP]Masked[SP]Circle...[1205][U+000F][SP]Aaah,[SP]she'll\nbe[SP]fine,[SP]I'm[SP]sure.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Je me sens désolé pour Lisa, mais on avait pas d'autres 
+    pistes vers le Cercle Masqué...[1205][U+000F] Aaah, elle
+    s'en sortira, j'en suis sûre."
   },
   {
     "id": 65,
@@ -757,8 +762,10 @@
     "data_size": 226,
     "nom_orig": "Yukino",
     "texte_orig": "We'll[SP]never[SP]figure[SP]out[SP]the[SP]next[SP]target[SP]from\nthe[SP]Oracle[SP]alone.[1205][U+000F][SP]Let's[SP]hurry[SP]and[SP]head[SP]to\nDouble[SP]Slash.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "On ne saura jamais qui est la prochaine cible seulement à partir 
+    de l'Oracle.[1205][U+000F] Dépêchons-nous et allons au 
+    Double Tranchant"
   },
   {
     "id": 66,
@@ -767,8 +774,10 @@
     "data_size": 216,
     "nom_orig": "Yukino",
     "texte_orig": "It[SP]won't[SP]be[SP]long[SP]until[SP]the[SP]next[SP]target\nexplodes.[SP]We[SP]don't[SP]have[SP]time[SP]to[SP]check\nboth[SP]possibilities.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "L'explosion de la prochaine cible va 
+    pas tarder. On a pas le temps de vérifier 
+    les deux possibilitées."
   },
   {
     "id": 67,
