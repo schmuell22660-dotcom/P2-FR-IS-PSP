@@ -138,7 +138,8 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I'd[SP]be[SP]amazed[SP]if[SP]anyone[SP]so[SP]much[SP]as[SP]managed[SP]to\nscratch[SP]her.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je serai sur le cul si quelqu'un parvenait ne serait-ce qu'à l'éraffler."
+    "texte_fr": "Je serai sur le cul si quelqu'un parvenait ne 
+    serait-ce qu'à l'éraffler."
   },
   {
     "id": 12,
@@ -242,7 +243,8 @@
     "nom_orig": "Ginko",
     "texte_orig": "Why[SP]would[SP]couples[SP]who[SP]go[SP]on[SP]a[SP]date[SP]in[SP]such[SP]a\npretty[SP]park[SP]break[SP]up?",
     "nom_fr": "Ginko",
-    "texte_fr": "Pourquoi est-ce que les couples qui vont dans un si joli parc se sépareraient?"
+    "texte_fr": "Pourquoi est-ce que les couples qui 
+    vont dans un si joli parc se sépareraient?"
   },
   {
     "id": 21,
@@ -344,8 +346,9 @@
     "data_size": 200,
     "nom_orig": "Ginko",
     "texte_orig": "Sheba...[1205][U+000F][SP]Mee-ho...[SP]Hang[SP]in[SP]there.[1205][U+000F][SP]I'll...[1205][U+000F]\nI'll[SP]make[SP]sure[SP]to[SP]get[SP]your[SP]dreams[SP]back...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Sheba…[1205][U+000F] Mee-ho… Tenez bon.[1205][U+000F] Je…[1205][U+000F]
+    je vais m’assurer que vos rêves reviennent…"
   },
   {
     "id": 30,
@@ -354,8 +357,10 @@
     "data_size": 262,
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]think[SP]Smile[SP]Hirasaka[SP]is[SP]the[SP]next[SP]target.[1205][U+000A]\nI-I[SP]don't[SP]have[SP]any[SP]reason[SP]for[SP]thinking[SP]that,\nthough...[1205][U+000F][SP]It's[SP]just[SP]a[SP]hunch.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Je pense que Smile Hirasaka est la prochaine cible.[1205][U+000A]
+    J-j'ai pas de raison de le penser...[1205][U+000F]
+    C'est qu'une intuition. "
   },
   {
     "id": 31,
@@ -376,7 +381,9 @@
     "nom_orig": "Ginko",
     "texte_orig": "But[SP]if[SP]it's[SP]a[SP]target,[SP]there'll[SP]be[SP]bombs[SP]set\nthere[SP]too.[SP]Would[SP]King[SP]Leo[SP]really[SP]be[SP]at[SP]a\nplace[SP]like[SP]that...?",
     "nom_fr": "Ginko",
-    "texte_fr": "Mais si c'est une cible, il y aura des bombes aussi. Est-ce que le Roi Lion serait dans un endroit comme ça...?"
+    "texte_fr": "Mais si c'est une cible, il y aura des bombes
+    là-bas aussi. Est-ce que le Roi Lion serait dans un 
+    endroit comme ça...?"
   },
   {
     "id": 33,
@@ -408,7 +415,8 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hoisamuro![SP]That's[SP]right,[SP]Jun's[SP]still[SP]a[SP]nice\nguy[SP]like[SP]he[SP]was[SP]back[SP]then!",
     "nom_fr": "Ginko",
-    "texte_fr": "Hoisamuro! C'est vrai, Jun est toujours un bon gars!"
+    "texte_fr": "Hoisamuro! C'est vrai, Jun est toujours 
+    un bon gars!"
   },
   {
     "id": 36,
@@ -730,7 +738,9 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]think[SP]we[SP]can[SP]count[SP]on[SP]Tamaki[SP]and[SP]that\nchief[SP]detective.[1205][U+000F][SP]The[SP]other[SP]one's[SP]hopeless,\nthough,[SP]trust[SP]me.",
     "nom_fr": "Yukino",
-    "texte_fr": "Je pense qu'on peut compter sur Tamaki et le chef des détectives.[1205][U+000F] L'autre était sans espoirs, crois moi."
+    "texte_fr": "Je pense qu'on peut compter sur Tamaki et ce
+    chef des détectives.[1205][U+000F] L'autre était sans
+    espoirs, crois moi."
   },
   {
     "id": 63,
@@ -786,8 +796,10 @@
     "data_size": 262,
     "nom_orig": "Yukino",
     "texte_orig": "I'm[SP]not[SP]trying[SP]to[SP]pressure[SP]you,[SP]but[SP]think[SP]it\nthrough[SP]carefully[SP]before[SP]choosing[SP]where[SP]we\ngo.[SP]We[SP]trust[SP]your[SP]judgement,[SP][U+1113].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Je veux pas te mettre la pression, mais réfléchis bien
+    avant de choisir où nous allons. 
+    On a confiance en ta jugeote,[U+1113]."
   },
   {
     "id": 68,
@@ -796,7 +808,7 @@
     "data_size": 164,
     "nom_orig": "Yukino",
     "texte_orig": "My[SP]money's[SP]on[SP]GOLD.[1205][U+000F][SP]It's[SP]just[SP]a[SP]feeling\nI[SP]have.[1205][U+000A][SP]You[SP]know,[SP]a[SP]hunch.",
-    "nom_fr": "",
+    "nom_fr": "Yukino",
     "texte_fr": ""
   },
   {
