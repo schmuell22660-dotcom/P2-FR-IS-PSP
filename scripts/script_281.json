@@ -809,7 +809,8 @@
     "nom_orig": "Yukino",
     "texte_orig": "My[SP]money's[SP]on[SP]GOLD.[1205][U+000F][SP]It's[SP]just[SP]a[SP]feeling\nI[SP]have.[1205][U+000A][SP]You[SP]know,[SP]a[SP]hunch.",
     "nom_fr": "Yukino",
-    "texte_fr": ""
+    "texte_fr": "Je parie sur GOLD.[1205][U+000F] J'ai un 
+    pressentiment.[1205][U+000A] T'as compris, une intuition quoi."
   },
   {
     "id": 69,
@@ -818,8 +819,10 @@
     "data_size": 236,
     "nom_orig": "Yukino",
     "texte_orig": "King[SP]Leo[SP]might've[SP]been[SP]planning[SP]to[SP]lure[SP]us[SP]to\nthe[SP]Aerospace[SP]Museum[SP]whether[SP]we[SP]stopped[SP]the\nbombings[SP]or[SP]not.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Le Roi Lion a sûrement prévu de nous leurrer 
+    au Musée Aérospatial que nous arrêtions
+    les bombes ou non. "
   },
   {
     "id": 70,
@@ -828,8 +831,9 @@
     "data_size": 234,
     "nom_orig": "Yukino",
     "texte_orig": "Normally,[SP]a[SP]book[SP]like[SP]that[SP]would[SP]be[SP]laughable.\nBut[SP]coming[SP]right[SP]on[SP]the[SP]heels[SP]of[SP]this[SP]wave\nof[SP]terrorism...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "J'aurai bien rit de se livre. 
+    Mais après cette vague d'attentats..."
   },
   {
     "id": 71,
