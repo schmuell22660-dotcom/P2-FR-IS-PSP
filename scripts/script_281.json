@@ -832,7 +832,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Normally,[SP]a[SP]book[SP]like[SP]that[SP]would[SP]be[SP]laughable.\nBut[SP]coming[SP]right[SP]on[SP]the[SP]heels[SP]of[SP]this[SP]wave\nof[SP]terrorism...",
     "nom_fr": "Yukino",
-    "texte_fr": "J'aurai bien rit de se livre. 
+    "texte_fr": "Normalement, on aurait rit de ce livre. 
     Mais après cette vague d'attentats..."
   },
   {
@@ -842,8 +842,9 @@
     "data_size": 168,
     "nom_orig": "Yukino",
     "texte_orig": "A[SP]lot[SP]of[SP]people[SP]will[SP]think[SP][1432][NULL][NULL][0014]What[SP]if...?[1432][NULL][NULL][0014][SP]even\nif[SP]it[SP]sounds[SP]absurd.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Beaucoupde gens vont penser [1432][NULL][NULL][0014] Et si...?[1432][NULL][NULL][0014] même
+    si ça paraît absurde."
   },
   {
     "id": 72,
