@@ -717,7 +717,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "A[SP]lot[SP]of[SP]people[SP]will[SP]think[SP][1432][NULL][NULL][0014]What[SP]if...?[1432][NULL][NULL][0014][SP]even\nif[SP]it[SP]sounds[SP]absurd.",
     "nom_fr": "Yukino",
-    "texte_fr": "Beaucoupde gens vont penser [1432][NULL][NULL][0014] Et si...?[1432][NULL][NULL][0014] même\nsi ça paraît absurde."
+    "texte_fr": "Beaucoup de gens vont penser [1432][NULL][NULL][0014] Et si...?[1432][NULL][NULL][0014] même\nsi ça paraît absurde."
   },
   {
     "id": 72,
@@ -726,8 +726,8 @@
     "data_size": 114,
     "nom_orig": "Yukino",
     "texte_orig": "If[SP]those[SP]soldiers[SP]head[SP]for[SP]Mt.[SP]Katatsumuri...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Si ces soldats se dirigent vers le Mt. Katatsumuri..."
   },
   {
     "id": 73,
@@ -736,8 +736,8 @@
     "data_size": 254,
     "nom_orig": "Hanako's[SP]mother",
     "texte_orig": "My[SP]girl[SP]says[SP]she[SP]ventured[SP]through[SP]Sevens[SP]to\nsee[SP]the[SP]emblem[SP]curse[SP]at[SP]work.[1205][001E][SP]She's[SP]such[SP]a\nfearless[SP]child...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mère d'Hanako",
+    "texte_fr": "Ma fille dit qu'elle se promène dans Sevens pour\nvoir la malédiction de l'emblème à l'oeuvre.[1205][001E] Elle est si\ntéméraire..."
   },
   {
     "id": 74,
@@ -746,8 +746,8 @@
     "data_size": 148,
     "nom_orig": "Hanako",
     "texte_orig": "I'm[SP]not[SP]scared[SP]of[SP]no[SP]curse![SP]That's[SP]why[SP]I[SP]was\ngonna[SP]beat[SP]it[SP]up.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Hanako",
+    "texte_fr": "J'ai pas peur de la malédiction! C'est pour ça que\nj'allais me la faire."
   },
   {
     "id": 75,
@@ -756,8 +756,8 @@
     "data_size": 302,
     "nom_orig": "Hanako",
     "texte_orig": "But[SP]then[SP]this[SP]boy[SP]came[SP]up[SP]to[SP]me[SP]and[SP]asked[SP]me\nwhat[SP]my[SP]name[SP]was.[SP]And[SP]I[SP]said,[SP][1432][NULL][NULL][0014]Hanako.[1432][NULL][NULL][0014][1205][U+000F][SP]And\nhe[SP]ran[SP]off[SP]screaming,[SP][1432][NULL][NULL][0014]It's[SP]Hanako![1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Hanako",
+    "texte_fr": "Mais ce gars est venu me demander mon nom.\nJ'ai dit [1432][NULL][NULL][0014]Hanako.[1432][NULL][NULL][0014][1205][U+000F]Et\nil s'est enfui en criant, [1432][NULL][NULL][0014]C'est Hanako![1432][NULL][NULL][0014]"
   },
   {
     "id": 76,
@@ -766,8 +766,8 @@
     "data_size": 272,
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I-I[SP]never...[SP]thought[SP]about[SP]myself...[SP]I'm...\nprobably[SP]going[SP]to[SP]die[SP]soon,[SP]so...[SP]Why...\ndo[SP]I[SP]feel[SP]so...[SP]good...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Membre du Cercle Masqué",
+    "texte_fr": "J-j'ai jamais pensé à moi... Je vais...\nsûrement mourir prochainement, alors... Pourquoi...\nje me sens si... bien...?"
   },
   {
     "id": 77,
@@ -776,8 +776,8 @@
     "data_size": 288,
     "nom_orig": "Defeated[SP]Masked[SP]Circle[SP]member",
     "texte_orig": "No[SP]one[SP]told[SP]me[SP]this[SP]mission[SP]would[SP]be[SP]so\nimpossible...[1205][U+000F][SP]That[SP]Joker...[1205][U+000A][SP]he[SP]tricked[SP]me...[1205][U+000A]\nH-He's[SP]a[SP]demon...!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Membre Vaincu du Cercle Masqué",
+    "texte_fr": "Personne m'avait dit que cette mission serait\nimpossible...[1205][U+000F] Ce Joker...[1205][U+000A] il m'a piégé...[1205][U+000A]\nC-c'est un demon...!"
   },
   {
     "id": 78,
@@ -786,8 +786,8 @@
     "data_size": 304,
     "nom_orig": "Rescued[SP]man",
     "texte_orig": "I[SP]can't[SP]believe[SP]one[SP]of[SP]the[SP]Masked[SP]Circle[SP]saved\nme...[1205][U+000F][SP]I-It[SP]was[SP]Joker's[SP]orders,[SP]I[SP]guess?[1205][U+000A][SP]Huh...\nMaybe[SP]he's[SP]not[SP]a[SP]bad[SP]guy[SP]after[SP]all...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme secouru",
+    "texte_fr": "Je peux pas croire que le Cercle Masqué m'ait\nsauvé...[1205][U+000F] C-c'était un ordre de Joker, je suppose?[1205][U+000A] Hmm...\n C'est peut-être pas un mauvais gars après tout..."
   },
   {
     "id": 79,
